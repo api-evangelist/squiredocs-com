@@ -64,5 +64,109 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-squiredocs-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://squiredocs.com/
+Squire Docs is an open‑source collaborative document editor designed for people and AI agents to edit the same documents in real time. Every edit is attributed, and the platform provides two‑way markdown synchronization with your repository. Built by 21st Harmonic and released under the MIT license, Squire Docs can be used for free at squiredocs.com or self‑hosted on your own infrastructure. It supports real‑time collaboration, version history, and an API that lets coding agents or CI pipelines keep documents in sync with code repositories.
+
+**Areas:** Open Source · Collaboration · AI Agents · Real-time · Documentation
+
+## squiredocs-com on APIs.io
+
+Everything profiled for squiredocs-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/squiredocs-com/](https://apis.io/providers/squiredocs-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [squiredocs-com API](https://apis.io/apis/squiredocs-com/squiredocs-com-api/) — squiredocs-com API as documented publicly: 2 operations. Contract generated from the documentation by API Evangelist (2026-10-31); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [squiredocs-com API Rules](https://apis.io/rules/squiredocs-com/squiredocs-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Squiredocs Com Authentication](https://apis.io/security/squiredocs-com/squiredocs-com-authentication/)
+- [Squiredocs Com Domain Security](https://apis.io/security/squiredocs-com/squiredocs-com-domain-security/)
+- [Squiredocs Com Vulnerability Disclosure](https://apis.io/security/squiredocs-com/squiredocs-com-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Squiredocs Com Scopes](https://apis.io/scopes/squiredocs-com/squiredocs-com-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://squiredocs.com/)
+- [Documentation](https://squiredocs.com/documentation)
+- [Getting started](https://squiredocs.com/documentation/getting-started)
+- [API reference](https://squiredocs.com/documentation)
+- [Pricing](https://squiredocs.com/pricing)
+- [Sign up](https://squiredocs.com/signup)
+- [Support](https://squiredocs.com/about)
+- [Blog](https://squiredocs.com/blog)
+- [Terms of service](https://squiredocs.com/terms)
+- [Privacy policy](https://squiredocs.com/privacy)
+- [GitHub](https://github.com/squiredocs)
+
+## API Evangelist rating
+
+**Kin Score 49.7** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 38.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 44.7 |
+
+**Agent readiness 39.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 40.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/squiredocs-com/](https://apis.io/providers/squiredocs-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for squiredocs-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/squiredocs-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
